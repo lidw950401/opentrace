@@ -25,7 +25,7 @@ jobs:
   
     strategy:
       matrix:
-        runtime: [osx-aarch64]
+        runtime: [osx-arm64]
             
     runs-on: ubuntu-latest
 
